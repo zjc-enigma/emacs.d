@@ -1,0 +1,128 @@
+ls
+ll
+ls -l
+ls
+rm test.html 
+ls
+ls
+ls
+ls
+cd
+ls
+cd .org-timestamps/
+ls
+rm *
+ls
+ls
+ls
+which bash
+date
+date --help
+man date
+date -f yymmdd
+date -f ymd
+date -f %y
+date -f +y
+date -f +%y
+date -f +%Y
+date -d +%Y
+date  +%Y
+date  +%Y%m%d
+date -d +%Y%m%d
+date -f +%Y%m%d
+ls
+chmod +x mkorg.sh 
+./mkorg.sh 
+ls
+./mkorg.sh 
+mkdir ~/Blog/wordpress/org
+ls
+mkdir ~/Blog/wordpress/org/20141027
+ls
+rm -r 20141027/
+ls
+./mkorg.sh 
+./mkorg.sh 
+./mkorg.sh 
+./mkorg.sh 
+ls
+rm -r 20141027/
+ls
+ls
+./mkorg.sh 
+ls
+cd 20141027/
+ls
+ls
+./mkorg.sh 
+ls
+cd 20141028/
+ls
+ls
+cd ..
+ls
+rm -r 20141028/
+ls
+./mkorg.sh 数据分析
+ls
+cd 20141028/
+ls
+cd ..
+ls
+rm -r 20141028/
+./mkorg.sh 数据分析
+ls
+cd 20141028/
+ls
+less 20141028_数据分析.org 
+ls
+cd ..
+ls
+./mkorg.sh 数据分析
+ls
+cd 20141029/
+ls
+wget -c http://data.undp.org/resource/y8j2-3vi9.json
+ls
+cd 
+ls
+cd Programs/
+ls
+cd ..
+ls
+cd Practice/
+ls
+cd R
+ls
+emacs 1.R
+touch 1.R
+R
+ls
+cd 
+cd /Volumes/
+ls
+cd Promise\ RAID/
+ls
+cd Dataset/
+ls
+cd Human_Development_Indicators/
+ls
+wget -c  http://data.undp.org/OData.svc/5tuc-d2a9
+ls -lrta
+less 5tuc-d2a9 
+ls
+less 5tuc-d2a9 
+ls
+rm 5tuc-d2a9 
+ls
+wget -c http://data.undp.org/resource/5tuc-d2a9.json
+ls
+ls -lart
+less 2014_HDI_By_country.json
+R
+ls
+less 5tuc-d2a9.json 
+head 5tuc-d2a9.json 
+R
+ls
+R
