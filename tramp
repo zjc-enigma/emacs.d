@@ -1,4 +1,4 @@
-;; -*- emacs-lisp -*- <14/02/24 20:07:58 /Users/enigma/.emacs.d/tramp>
+;; -*- emacs-lisp -*- <14/11/02 15:32:13 /Users/enigma/.emacs.d/tramp>
 ;; Tramp connection history.  Don't change this file.
 ;; You can delete it, forcing Tramp to reapply the checks.
 
@@ -17,5 +17,22 @@
   ("stat" nil)
   ("id" "/usr/bin/id")
   ("gid-integer" 0))
- (["scpc" nil "package" nil nil]
-  nil))
+ (["ssh" "root" "182.92.235.126" nil nil]
+  ("uname" "Linux 3.2.0-4-amd64")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("locale" "LC_ALL=en_US.utf8")
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("id" "/usr/bin/id")
+  ("gid-string" "root")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("gid-integer" 0)
+  ("readlink" "\\readlink")
+  ("gvfs-monitor-dir" nil)
+  ("inotifywait" nil)
+  ("ls" "/bin/ls --color=never")))

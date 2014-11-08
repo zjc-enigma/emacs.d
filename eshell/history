@@ -1,19 +1,4 @@
 ls
-ll
-ls -l
-ls
-rm test.html 
-ls
-ls
-ls
-ls
-cd
-ls
-cd .org-timestamps/
-ls
-rm *
-ls
-ls
 ls
 which bash
 date
@@ -126,3 +111,18 @@ head 5tuc-d2a9.json
 R
 ls
 R
+ls
+ls
+ll
+l
+source .bashrc
+ls
+ll
+ls -larF
+ls
+cd
+cd /Volumes/Promise\ RAID/Dataset/
+ls
+cd Human_Development_Indicators/
+ls
+less 2014_HDI_By_country.json
