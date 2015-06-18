@@ -1,12 +1,24 @@
-((("MAX_SIZE" .
-   [0 0 0 0 0 0 0 4])
-  ("Title" .
+((("setOldClass" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("expand.grid" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("Titanic.logit.2" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Titanic.logit.1" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("trace" .
    [0 0 0 0 1])
-  ("volcano" .
-   [0 0 0 0 0 0 1])
-  ("install.packages" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("mosaicplot" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("Resourceshttp://data.undp.org/resource/ti85-2nvi.json" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
   ("Indexhttp://data.undp.org/resource/n8fa-gx39.json" .
    [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
-  ("Resourceshttp://data.undp.org/resource/ti85-2nvi.json" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])))
+  ("install.packages" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("volcano" .
+   [0 0 0 0 0 0 1])
+  ("Title" .
+   [0 0 0 0 1])
+  ("MAX_SIZE" .
+   [0 0 0 0 0 0 0 4])))

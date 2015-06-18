@@ -1,42 +1,3 @@
-ls
-ll
-ls -l
-ls
-rm test.html 
-ls
-ls
-ls
-ls
-cd
-ls
-cd .org-timestamps/
-ls
-rm *
-ls
-ls
-ls
-which bash
-date
-date --help
-man date
-date -f yymmdd
-date -f ymd
-date -f %y
-date -f +y
-date -f +%y
-date -f +%Y
-date -d +%Y
-date  +%Y
-date  +%Y%m%d
-date -d +%Y%m%d
-date -f +%Y%m%d
-ls
-chmod +x mkorg.sh 
-./mkorg.sh 
-ls
-./mkorg.sh 
-mkdir ~/Blog/wordpress/org
-ls
 mkdir ~/Blog/wordpress/org/20141027
 ls
 rm -r 20141027/
@@ -126,3 +87,42 @@ head 5tuc-d2a9.json
 R
 ls
 R
+ls
+ls
+ls
+ls
+ls
+cd ..
+ls
+cd data/
+ls
+cd
+ls
+cd .emacs.d/
+ls
+cd lisp/
+ls
+grep -H comple *.el
+ls
+cd
+cd -
+ls
+cd ../data/
+ls
+less train.csv 
+tail train.csv 
+cd
+ls
+cd .emacs.d/lisp/
+grep -H mark *.el
+ls
+cd ..
+ls
+cd data/
+ls
+git clone https://raw.github.com/wehrley/Kaggle_Titanic/master/
+ls
+wget https://raw.github.com/wehrley/Kaggle_Titanic/master/
+wget https://raw.github.com/wehrley/Kaggle_Titanic/master/train.csv
+ls
+less train.csv.1

@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/infinite/Competition/kaggle/Titanic/" . "data/")
+ ("/home/infinite/Competition/kaggle/" . "Titanic/")
+ ("/home/infinite/Competition/" . "kaggle/")
+ ("/home/infinite/" . "Competition/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/infinite/Competition/kaggle/Titanic/data/"
+ "/home/infinite/Competition/kaggle/Titanic/bin/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "README"
+ "1.R"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/infinite/Competition/kaggle/Titanic/bin/" (21617 50839 121186 55000) "._.DS_Store" "gendermodel.py" ".Rhistory" ".DS_Store" "genderclassmodel.py" "./" "._genderclassmodel.py" ".RData" "._myfirstforest.py" "myfirstforest.py" "._gendermodel.py" "#1.R#" "1.R" "../" ".#1.R")
+
+ ("/home/infinite/Competition/kaggle/Titanic/data/" (21607 62919 842352 26000) "._.DS_Store" "README" "._genderclassmodel.csv" "._gendermodel.csv" "train.csv.1" "test.csv" ".DS_Store" "./" "._train.csv" "gendermodel.csv" "train.csv" "../" "._test.csv" "genderclassmodel.csv")
+
+ ("/home/infinite/Competition/kaggle/Titanic/" (21601 56797 404513 715000) "._.DS_Store" "bin/" ".DS_Store" "./" "result/" "../" "data/")
+
+ ("/home/infinite/Competition/kaggle/" (21601 56797 248511 1000) "._.DS_Store" ".DS_Store" "./" "Titanic/" "../" "avazu_CTR/")
+
+ ("/home/infinite/Competition/" (21603 17629 879056 996000) "./" "../" "kaggle/")
+
+ ("/home/infinite/" (21605 59300 274366 582000) "Project/" ".profile" "Git/" "Lecture/" ".mldonkey/" "test/" ".screenrc" ".ipython/" ".emacs.d/" ".bashrc" "Demo/" "opt/" "Org/" "src/" ".config/" "Mail/" "./" ".irssi/" ".bash_logout" ".gitconfig" "../" ".bash_history" "program/" "Competition/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
