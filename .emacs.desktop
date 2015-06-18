@@ -1,0 +1,71 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Jun 19 01:22:36 2015
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset nil)
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history '("R" "auto-insert-mode" "auto-complete-mode" "ac-expand" "auto-complete-mode" "el-get-install" "R" "eshell" "R" "eshell" "auto-complete" "eshell" "el-get-install" "el-get-remove" "el-get-init" "linum-mode" "rename-buffer" "org-publish" "org-mode" "calendar-goto-today" "outline-mode" "org2blog/wp-post-buffer" "org2blog/wp-mode" "org2blog/wp-new-entry" "org" "calendar" "org2blog/wp-post-buffer-as-page" "org2blog/wp-new" "org2blog/wp-login" "toggle-debug-on-error"))
+(setq face-name-history nil)
+(setq file-name-history '("~/Competition/kaggle/Titanic/bin/1.R" "~/.mldonkey/servers.ini" "~/.mldonkey/downloads.ini" "~/Competition/kaggle/Titanic/bin/1.R" "~/.mldonkey/servers.ini" "~/.mldonkey/downloads.ini" "~/Competition/kaggle/Titanic/bin/1.R" "~/.mldonkey/servers.ini" "~/Competition/kaggle/Titanic/bin/1.R" "~/Competition/kaggle/Titanic/data/README" "~/Competition/kaggle/Titanic/bin/1.R" "/home/infinite/Competition/kaggle/Titanic/data/README" "~/Competition/kaggle/Titanic/data/README" "~/Competition/kaggle/Titanic/bin/1.R" "~/Competition/kaggle/Titanic/data/README" "~/Competition/kaggle/Titanic/bin/1.R" "~/Competition/kaggle/Titanic/data/README" "~/Competition/kaggle/Titanic/bin/1.R" "~/.emacs.d/lisp/init-local.el" "/home/infinite/Competition/kaggle/Titanic/data/README" "~/Competition/kaggle/Titanic/bin/1.R" "~/.emacs.d/lisp/init-auto-complete.el" "/home/infinite/Competition/kaggle/Titanic/bin/1.R" "/home/infinite/.emacs.d/lisp/init-local.el" "/etc/hosts" "/root/Competition/kaggle/Titanic/data/train.csv" "/root/Competition/kaggle/Titanic/data/genderclassmodel.csv" "/root/Competition/kaggle/Titanic/data/test.csv" "/root/.emacs.d/lisp/init-local.el" "/root/Competition/kaggle/Titanic/data/README" "~/Org/1.org" "/usr/local/share/emacs/24.4/etc/DEBUG" "~/.emacs.d/el-get/.loaddefs.el" "~/.emacs.d/init.el" "/Users/enigma/.emacs.d/lisp/init-local.el" "/Users/enigma/Blog/wordpress/org/20141029/20141029_‘Êý‘¾Ý‘·Ö‘Îö.org" "/Users/enigma/Practice/R/1.R" "/Users/enigma/Blog/wordpress/org/2014-10-27_org-mode‘³õ‘²½.org" "~/org/.org2blog.org" "~/Practice/C/ACM/2.c" "~/Practice/C/ACM/4.1.c" "~/Practice/C/ACM/1.1.c" "~/Practice/C/ACM/4.c" "~/Practice/C/ACM/3.c" "~/Documents/Booknotes/PKMeans.org" "/etc/sysctl.conf" "~/Git/libfreenect2/examples/protonect/CMakeCache.txt" "~/Git/libfreenect2/depends/install_deps.sh" "~/Git/libfreenect2/depends/install_mac.sh" "~/Blog/hello-my-site/_config.yml" "~/Blog/hello-my-site/_layouts/default.html" "~/Blog/zjc-enigma.github.io/_layouts/default.html" "~/Blog/wordpress/org/2014-10-27‘¿ª‘Ê¼‘Ð´‘²©‘¿Í.org" "~/Blog/wordpress/org/mkorg.sh" "~/Blog/wordpress/org/20141028/20141028_‘Êý‘¾Ý‘·Ö‘Îö.org" "~/Blog/wordpress/org/2014-10-27_org-mode‘³õ‘²½.org" "/Volumes/Promise RAID/Dataset/Human_Development_Indicators/fetch_data.sh" "~/Blog/wordpress/org/‘Êý‘¾Ý‘Ô´.org" "~/Blog/wordpress/org/20141029/20141029_‘Êý‘¾Ý‘·Ö‘Îö.org" "/Users/enigma/Blog/wordpress/org/‘Êý‘¾Ý‘Ô´.org"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ido-buffer-history '("*R*" "1.R" "*Ibuffer*" "*help[R](predict)*" "*R*" "1.R" "*help[R](predict.glm)*" "*help[R](predict)*" "*R*" "1.R" "*R*" "*help[R](predict)*" "1.R" "*help[R](expand.grid)*" "1.R" "*R*" "1.R" "*help[R](trainControl)*" "1.R" "*help[R](qchisq)*" "*help[R](createDataPartition)*" "*R*" "1.R" "*R*" "1.R" "*Ibuffer*" "README" "*R*" "1.R" "*R*" "*help[R](apply)*" "*R*" "*help[R](str_match)*" "*R*" "1.R" "*R*" "1.R" "*R*" "1.R" "*R*" "*help[R](length)*" "*R*" "*help[R](impute)*" "*R*" "1.R" "*R*" "1.R" "*R*" "*help[R](bystats)*" "1.R" "*help[R](bystats)*" "*Completions*" "*R*" "*help[R](bystats)*" "*Completions*" "*R*" "1.R" "*R*" "*help[R](attr)*" "*R*" "*Ibuffer*" "1.R" "*R*" "1.R" "*scratch*" "*R*" "1.R" "*R*" "*help[R](regexpr)*" "*R*" "*help[R](regexpr)*" "*R*" "*help[R](regexpr)*" "*R*" "*help[R](regexpr)*" "*help[R](corrgram)*" "1.R" "*R*" "README" "*R*" "README" "*help[R](table)*" "*R*" "*ESS*" "*grep*" "init-local.el" "*eshell*" " *undo-tree*" "*R*" "*eshell*" "data" "README" "*Messages*" "20141029_‘Êý‘¾Ý‘·Ö‘Îö.org" "*eshell*" "Rshell" " *undo-tree*" "*Ibuffer*" "ssh" "1.R"))
+(setq ido-last-directory-list '(("/home/infinite/Competition/kaggle/Titanic/" . "data/") ("/home/infinite/Competition/kaggle/" . "Titanic/") ("/home/infinite/Competition/" . "kaggle/") ("/home/infinite/" . "Competition/")))
+(setq ido-work-directory-list '("/home/infinite/Competition/kaggle/Titanic/data/" "/home/infinite/Competition/kaggle/Titanic/bin/"))
+(setq ido-work-file-list '("README" "1.R"))
+(setq magit-read-rev-history nil)
+(setq minibuffer-history '("org-jekyll" "wordpress" "my-blog" "metaweblog" "xml-rpc-el" "eni" "o-blog" "org-static-eni" "org-enigma" "sanityinc-tomorrow-night" "adwaita"))
+(setq org-refile-history nil)
+(setq org-tags-history nil)
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring '("whi" "un" "bb " "bb" "bb " "g"))
+(setq register-alist nil)
+(setq search-ring '("port" "box" "summary" "box" "grep" "grepl" "regexp" "regexpr" "pie" "parch" "hist" "class"))
+(setq shell-command-history '("git checkout o-blog-v2"))
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/infinite/.mldonkey/downloads.ini"
+  "downloads.ini"
+  'conf-space-mode
+  '(anzu-mode global-auto-revert-mode whitespace-cleanup-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode auto-compile-on-load-mode linum-mode)
+  1026
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/infinite/.mldonkey/servers.ini"
+  "servers.ini"
+  'conf-unix-mode
+  '(anzu-mode global-auto-revert-mode whitespace-cleanup-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode auto-compile-on-load-mode linum-mode)
+  2315
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/infinite/Competition/kaggle/Titanic/bin/1.R"
+  "1.R"
+  'ess-mode
+  '(anzu-mode auto-complete-mode global-auto-revert-mode whitespace-cleanup-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode auto-compile-on-load-mode eldoc-mode linum-mode)
+  10751
+  '(10921 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
